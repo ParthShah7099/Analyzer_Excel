@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Excel, temporary files
+~$*.xlsx
+*.tmp
+
+# Node / build (if any)
+node_modules/
+dist/
+.vscode/
+
+# mac video thumbnails
+Thumbs.db
+
+# Output / logs
+*.log
+
+# Python/venv if you ever add code
+venv/
+__pycache__/
+*.pyc
